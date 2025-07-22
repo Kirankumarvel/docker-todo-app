@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/docker-todo-app.git
+git clone https://github.com/Kirankumarvel/docker-todo-app.git
 cd docker-todo-app
 ```
 
